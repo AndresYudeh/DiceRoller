@@ -62,3 +62,6 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier){
          }
      }
 }
+/* Estudiante: B. Andres Yudeh Cedeño
+*  Curso: Septimo "A"
+* */
